@@ -18,7 +18,7 @@ Build Instructions:<br />
 Assumptions<br />
 1)The code will check the user input MAX_RETRYS(Currently at 5) before exiting,This can be changed in main.cpp<br />
 2)The Default TileMaps are stored in the example folder.The Assumption is the Output command would be run either in the build folder or in another folder where "../examples" would work,Otherwise the path can be explicitly specified using the User-Defined option.<br />
-3)The user can upload their own TileMaps to run the game.<br />
+3)The user can upload their own TileMaps to run the algorithm.<br />
 4)The Output is printed on the screen as well as written to an Output.log file.<br />
 
 Overview of the Project Structure<br />
