@@ -33,6 +33,9 @@ Astar.h<br />
 4)ChoosePoint Function allows you to choose the Starting Point/Ending Point Either by User Definition or by Random Generation.<br />
 5)Any Errors are displayed on the screen as well as saved in a ErrorLog for later Debugging.<br />
 
+Sample Inputs: examples folder
+Sample Outputs:Outputs folder
+
 Design Decisions<br />
 1)I decided to use the third-party library for parsing the json files instead of manually reading them for saving time.<br />
 2)I separated the Algorithm from the rest of the input code so that in the future another algorithm could also be implemented here.<br />
