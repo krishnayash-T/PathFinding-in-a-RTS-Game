@@ -10,7 +10,7 @@ Prerequisites:Cmake(min Version 3.6) and c++11 compiler
 
 Build Instructions:
 1)Download the code from the git repository.
-2)delete the existing build folder and create a new build folder
+2)delete the existing build folder and create a new build folder.
 3)In a Terminal navigate to the build folder and run the command "cmake .."
 4)Once the make files are generated run "make"
 5)The "Output" Binary would be generated which can be run to execute the code.
